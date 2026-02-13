@@ -1,6 +1,6 @@
 # Lab-5---JavaFX-and-MVC-Pattern
 
-📖 Project Description
+Project Description
 
 This project is a simple JavaFX application developed using the MVC (Model-View-Controller) architecture.
 
@@ -89,3 +89,5 @@ Open the project in NetBeans.
 Make sure JavaFX is properly configured.
 
 Run FXMain.java.
+
+Yuedong Xu
